@@ -19,7 +19,8 @@ This project takes a dataset of 10,000 bank customers' financial behavior, demog
 ## The Analysis
 The project is broken down into five dashboard pages. Each page presents a global analysis of the bank's performance which can be broken down based on Region (West Virginia, Virginia, and North Carolina):
 
-<b> Bank Summary </b>
+### <b> Bank Summary </b>
+
 ![Bank-Summary](Dashboard-Images/Bank-Summary.png)
 
 - As of our review, there appears to be 7,962 active bank customers with a total deposits of $765MM
@@ -27,14 +28,16 @@ The project is broken down into five dashboard pages. Each page presents a globa
     - It should be noted that out of the $765MM in total deposits, $186MM of the deposits derive from customers who have exited our bank
 - Overall, we see a satisfcation rating of 3.01 with each region having a similar satisfaction rating
 
-<b> Demographics </b>
+### <b> Demographics </b>
+
 ![Demographics](Dashboard-Images/Demographics.png)
 
 - The average active customer has banked with us for five years with the majority banking between two to eight years
 - The average age of our customers is 37 and they have an average credit score of 652 (which is below the [US Average](https://www.experian.com/blogs/ask-experian/what-is-the-average-credit-score-in-the-u-s/))
 - The majority of our active customers are males
 
-<b> Churn Analysis </b>
+### <b> Churn Analysis </b>
+
 ![Churn-Analysis](Dashboard-Images/Churn-Analysis.png)
 
 - Since opening ten years ago, we have lost 2,038 customers with a churn rate of 20.38%
@@ -42,7 +45,8 @@ The project is broken down into five dashboard pages. Each page presents a globa
     - There appears to be a correlation between complaints and exits
     - The bank has only been able retain six customers that have made complaints
 
-<b> Product Analysis </b>
+### <b> Product Analysis </b>
+
 ![Products](Dashboard-Images/Product-Analysis.png)
 
 - Based on active customers, we noted the following:
@@ -52,6 +56,10 @@ The project is broken down into five dashboard pages. Each page presents a globa
     - Average card points: 607
 - There appears to be a near equal mix of card types for the active customers
 - Additionally, there is an equal mix of card points for the different card types
+
+### <b> Top Customers </b>
+
+![Top-Customers](Dashboard-Images/Top-Customers.png)
 
 
 ## Conclusion
